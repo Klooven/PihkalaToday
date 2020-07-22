@@ -30,7 +30,7 @@
     "babel-plugin-external-helpers": "^6.22.0",
     "babel-preset-env": "^1.6.1",
     "bootstrap": "^4.0.0",
-    "clean-css-cli": "^4.1.11",
+    "clean-css-cli": "^4.3.0",
     "date-fns": "^1.29.0",
     "http-server": "^0.11.1",
     "jquery": "^3.3.1",
