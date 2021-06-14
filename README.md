@@ -3,4 +3,4 @@
 
 *Events in the world, today, from different years.*
 
-**See it in action on**: http://tutrox.github.io/PihkalaToday
+**See it in action on**: https://today.pihkala.info/
