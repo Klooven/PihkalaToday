@@ -1,10 +1,8 @@
 /*! Info: https://git.io/vAAq1 */
 
 $primary: #00497b;
-
 $font-family-sans-serif: "Source Sans Pro", sans-serif;
 $headings-font-weight: 700;
-
 $hr-margin-y: 0.1rem;
 $input-btn-padding-x: 0.25rem;
 $input-btn-padding-y: 0;
@@ -13,13 +11,15 @@ $input-btn-padding-y: 0;
   min-height: 100vh;
 }
 
-//Required
+// stylelint-disable no-invalid-position-at-import-rule
+
+// Required
 
 @import "bootstrap/scss/functions";
 @import "bootstrap/scss/variables";
 @import "bootstrap/scss/mixins";
 
-//Extra
+// Extra
 
 @import "bootstrap/scss/reboot";
 @import "bootstrap/scss/type";
