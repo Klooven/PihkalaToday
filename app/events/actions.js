@@ -168,7 +168,8 @@ export const actions = {
     {year: 1922, data: "Suomalaiset Niku ja Collin ottivat kaksoisvoiton Holmenkollenin 50 km:n kilpailussa"}
   ],
   "24.2.": [
-    {year: 1993, data: "Kuubassa ensimmäiset suorat, salaiset vaalit yli 30 vuoteen"}
+    {year: 1993, data: "Kuubassa ensimmäiset suorat, salaiset vaalit yli 30 vuoteen"},
+    {year: 2022, data: "Venäjä hyökkäsi Ukrainaan nimittäen sotaa erikoisoperaatioksi"}
   ],
   "25.2.": [
     {year: 1836, data: "Samuel Colt patentoi kuudesti laukeavan"}
@@ -771,7 +772,8 @@ export const actions = {
   ],
   "8.9.": [
     {year: 1929, data: "Höyrylaiva Kuru uppoaa Näsijärvellä - 138 hukkunutta"},
-    {year: 1915, data: "Ensimmäiset panssarivaunut valmistuivat \"Mother\" ja \"Big Willie\" Englannissa"}
+    {year: 1915, data: "Ensimmäiset panssarivaunut valmistuivat \"Mother\" ja \"Big Willie\" Englannissa"},
+    {year: 2022, data: "Iso-Britannian pitkäaikaisin hallitsija kuningatar Elisabeth II kuoli"}
   ],
   "9.9.": [
     {year: 1926, data: "perustettiin Oy Suomen Yleisradio - Finlands Rundradio Ab"}
