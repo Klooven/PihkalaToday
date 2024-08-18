@@ -489,7 +489,7 @@ export const names = {
     {data: "Raili, Raila; Åsa"}
   ],
   "14.6.": [
-    {data: "Kielo; Tord"}
+    {data: "Kielo, Pihla; Melvin, Milton, Morgan"}
   ],
   "15.6.": [
     {data: "Vieno, Viena; Mona, Monika"}
@@ -507,7 +507,7 @@ export const names = {
     {data: "Siiri; Sigrid, Siri"}
   ],
   "20.6.": [
-    {data: "Into; Inga"}
+    {data: "Into; Inga, Ingalill"}
   ],
   "21.6.": [
     {data: "Ahti, Ahto; Ingemar, Ingmar, Inge"}
@@ -555,7 +555,7 @@ export const names = {
     {data: "Unto, Untamo; Ulf"}
   ],
   "6.7.": [
-    {data: "Esa, Esaias; Halvar"}
+    {data: "Esa, Esaias; Halvar, Orvar"}
   ],
   "7.7.": [
     {data: "Klaus, Launo, Klas"}

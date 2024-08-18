@@ -583,7 +583,8 @@ export const actions = {
     {year: 1981, data: "Ruotsin Björn Borg voitti viidennen kerran peräkkäin Wimbledonin tennisturnauksen"}
   ],
   "6.7.": [
-    {year: 1968, data: "Saimaan kanava vihittiin uudelleen käyttöön"}
+    {year: 1968, data: "Saimaan kanava vihittiin uudelleen käyttöön"},
+    {data: "Eino Leinon päivä"}
   ],
   "7.7.": [
     {year: 1981, data: "Solar Challenger - aurinkoenergialla toimiva lentokone ylittää Englannin kanaalin"}
@@ -641,7 +642,8 @@ export const actions = {
     {year: 1976, data: "Lasse Viren voitti 10 000 metrin juoksun Montrealin olympialaisissa"}
   ],
   "27.7.": [
-    {year: 1921, data: "Insuliinihormoni eristettiin"}
+    {year: 1921, data: "Insuliinihormoni eristettiin"},
+    {data: "Unikeonpäivä"}
   ],
   "28.7.": [
     {year: 1914, data: "Itävalta julistaa sodan Serbialle; 1. maailmansodan alku"}
